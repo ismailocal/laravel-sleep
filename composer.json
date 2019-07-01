@@ -1,0 +1,24 @@
+{
+    "name": "ismailocal/sleep",
+    "description": "Sleep your users",
+    "type": "library",
+    "keywords": [
+        "users sleep",
+        "sleep",
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "İsmail Öcal",
+            "email": "ismailocal@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.0 || ^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ismailocal\\Sleep\\": "src/"
+        }
+    }
+}
