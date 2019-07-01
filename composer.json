@@ -2,6 +2,7 @@
     "name": "ismailocal/sleep",
     "description": "Sleep your users",
     "type": "library",
+    "license": "MIT",
     "keywords": [
         "users sleep",
         "sleep",
