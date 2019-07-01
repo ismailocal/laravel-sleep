@@ -1,6 +1,6 @@
 {
     "name": "ismailocal/sleep",
-    "description": "Sleep your users",
+    "description": "Laravel - Sleep your users",
     "type": "library",
     "license": "MIT",
     "keywords": [
