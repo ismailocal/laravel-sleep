@@ -48,5 +48,5 @@ $user->save();
 
 Check
 ```
-$user->isSleep(); // return boolean
+$user->isSleeping(); // return boolean
 ```
